@@ -10,11 +10,10 @@ const SITE_CONFIG = {
   footer: "RARITHERULA; ROBLOX COMMISSIONS",
   banner: "RARITHERULA COMMISSIONS ✦ ROBUX + USD ✦ ROBLOX SCRIPTING",
 
-  heroImage: "https://RariRariRula.github.io/pic.jpg",
+  heroImage: "https://cdn.discordapp.com/avatars/260834520603951104/44c9633dd5b613a8f2087d0f6704d378.jpg?size=4096",
 
   socials: [
-    { name: "Discord (DM to order)", url: "https://discord.com/" },
-    { name: "Twitter/X", url: "https://twitter.com/" }
+    { name: "Discord (DM to order)", url: "https://discord.com/users/260834520603951104" },
   ],
 
   pricing: [
