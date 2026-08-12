@@ -15,42 +15,42 @@ const SITE_CONFIG = {
   ],
 
   pricing: [
-    { name: "Test", price: "R$Example / $Example" },
-    { name: "Test", price: "R$Example / $Example" },
-    { name: "Test", price: "R$Example / $Example" },
-    { name: "Test", price: "R$Example / $Example" },
-    { name: "Test", price: "R$Example / $Example" },
-    { name: "Test", price: "R$Example / $Example" }
+    { name: "Small Script", price: "R$ / USD" },
+    { name: "Medium System", price: "R$ / USD" },
+    { name: "Large System", price: "R$ / USD" },
+    { name: "Combat System", price: "R$ / USD" },
+    { name: "Ability / Skill", price: "R$ / USD" },
+    { name: "Custom Work", price: "Contact Me" }
   ],
 
   rules: [
-    "Example rule 1.",
-    "Example rule 2.",
-    "Example rule 3.",
-    "Example rule 4.",
-    "Example rule 5.",
-    "Example rule 6.",
-    "Example rule 7.",
-    "Example rule 8.",
-    "Example rule 9.",
-    "Example rule 10."
+    "Payment is accepted through Robux or USD.",
+    "Prices depend on the complexity of the commission.",
+    "Please explain exactly what you need before development begins.",
+    "Major changes after development begins may cost extra.",
+    "Do not rush me unless a rush deadline was agreed on beforehand.",
+    "Payment terms will be discussed before work begins.",
+    "Testing and reasonable bug fixes are included.",
+    "Do not redistribute or resell my work without permission.",
+    "Communication is required throughout the commission.",
+    "DM me for an exact quote."
   ],
 
-  commissionStatus: "OPEN",
+  commissionStatus: "CLOSED",
 
   timeline: [
-    { label: "Example", description: "Standard commission" },
-    { label: "Example", description: "Rush fee (% extra)" }
-  ],
+  { label: "Standard", description: "Most commissions are completed within 3-7 days depending on complexity." },
+  { label: "Rush", description: "Rush commissions may be available for an additional 30%-50% fee." }
+],
 
-  process: [
-    "Example process step 1.",
-    "Example process step 2.",
-    "Example process step 3.",
-    "Example process step 4.",
-    "Example process step 5."
-  ],
-
+process: [
+  "DM me with a detailed description of what you need.",
+  "I review the request and give you a price and estimated completion time.",
+  "Once we agree on the details and payment terms, I begin development.",
+  "I will provide updates and testing when necessary.",
+  "After the commission is completed, I deliver the finished script/system."
+],
+  
   faq: [
     { q: "Can I rush my commission?", a: "Yes, but it costs 30% - 50% extra, depending on how soon you need it before the original deadline." },
     { q: "Do you work on weekends?", a: "Sometimes, depending on my schedule and deadlines." },
@@ -70,10 +70,10 @@ const SITE_CONFIG = {
     { author: "Test", text: "Example testimonial text." }
   ],
 
-  news: [
-    { date: "0000/00/00", title: "New Blank", content: "idk." },
-    { date: "0000/00/00", title: "Blank Title", content: "Example news content." }
-  ],
+news: [
+  { date: "2026/08/12", title: "Commissions Open", content: "Roblox scripting commissions are currently closed. I accept Robux and USD." },
+  { date: "2026/08/12", title: "Portfolio Updated", content: "Added new scripting examples and updated commission information." }
+],
 
   videos: [
     { title: "Example", url: "https://www.youtube.com/embed/dQw4w9WgXcQ" },
