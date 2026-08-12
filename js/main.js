@@ -105,7 +105,13 @@ const byId = id => document.getElementById(id)
 function renderBanner(){
   const banner = byId('banner')
   if(!banner) return
-  banner.innerHTML = `<span>${SITE_CONFIG.banner}</span><span>${SITE_CONFIG.banner}</span>`
+
+  banner.innerHTML = `
+    <div class="banner-track">
+      <span>${SITE_CONFIG.banner}</span>
+      <span>${SITE_CONFIG.banner}</span>
+    </div>
+  `
 }
 
 function renderHero(){
