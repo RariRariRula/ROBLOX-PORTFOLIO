@@ -8,7 +8,7 @@ const SITE_CONFIG = {
   footer: "RARITHERULA — ROBLOX COMMISSIONS",
   banner: "RARITHERULA COMMISSIONS ✦ ROBUX + USD ✦ ROBLOX SCRIPTING",
 
-  heroImage: "https://RariRariRula.github.io/pic.jpg",
+  heroImage: "https://cdn.discordapp.com/avatars/260834520603951104/44c9633dd5b613a8f2087d0f6704d378.jpg?size=4096",
 
   socials: [
   { name: "Discord (DM to order)", url: "https://discord.com/users/260834520603951104" },
@@ -71,7 +71,7 @@ process: [
   ],
 
 news: [
-  { date: "2026/08/12", title: "Commissions Open", content: "Roblox scripting commissions are currently closed. I accept Robux and USD." },
+  { date: "2026/08/12", title: "Commissions CLOSED", content: "Roblox scripting commissions are currently closed. I accept Robux and USD." },
   { date: "2026/08/12", title: "Portfolio Updated", content: "Added new scripting examples and updated commission information." }
 ],
 
