@@ -108,8 +108,8 @@ function renderBanner(){
 
   banner.innerHTML = `
     <div class="banner-track">
-      <span>${SITE_CONFIG.banner}</span>
-      <span>${SITE_CONFIG.banner}</span>
+      <span>${SITE_CONFIG.banner} ✦</span>
+      <span>${SITE_CONFIG.banner} ✦</span>
     </div>
   `
 }
