@@ -50,7 +50,7 @@ body{
   display:flex;
   width:max-content;
   will-change:transform;
-  animation:marquee 22s linear infinite;
+  animation:marquee 10s linear infinite;
 }
 
 .banner-track span{
