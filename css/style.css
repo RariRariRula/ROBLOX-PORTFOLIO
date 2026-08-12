@@ -49,24 +49,24 @@ body{
 .banner-track{
   display:flex;
   width:max-content;
-  will-change:transform;
   animation:marquee 10s linear infinite;
+  will-change:transform;
 }
 
 .banner-track span{
-  display:block;
   flex-shrink:0;
-  padding-right:50px;
+  display:block;
+  padding-right:60px;
   font-weight:600;
 }
 
 @keyframes marquee{
   from{
-    transform:translate3d(0,0,0);
+    transform:translateX(100vw);
   }
 
   to{
-    transform:translate3d(-50%,0,0);
+    transform:translateX(-50%);
   }
 }
 
