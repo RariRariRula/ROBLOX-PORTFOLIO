@@ -11,8 +11,7 @@ const SITE_CONFIG = {
   heroImage: "https://RariRariRula.github.io/pic.jpg",
 
   socials: [
-    { name: "Discord (DM to order)", url: "https://discord.com/" },
-    { name: "Twitter/X", url: "https://twitter.com/" }
+  { name: "Discord (DM to order)", url: "https://discord.com/users/260834520603951104" },
   ],
 
   pricing: [
