@@ -7,7 +7,7 @@ const SITE_CONFIG = {
   name: "RariTheRula",
   role: "Roblox Scripter · 1-2 Years Experience",
   about: "Hey, I'm RariTheRula, a 20-year-old Roblox developer with 1-2 years of scripting experience. I specialize in scripting custom systems, combat mechanics, abilities, and other Roblox gameplay features.",
-  footer: "RARITHERULA; ROBLOX COMMISSIONS",
+  footer: "RARITHERULA — ROBLOX COMMISSIONS",
   banner: "RARITHERULA COMMISSIONS ✦ ROBUX + USD ✦ ROBLOX SCRIPTING",
 
   heroImage: "https://cdn.discordapp.com/avatars/260834520603951104/44c9633dd5b613a8f2087d0f6704d378.jpg?size=4096",
